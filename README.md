@@ -1,2 +1,2 @@
-# computer_vision_exercise
-computer_vision_tutorial
+# computer_vision_tutorial
+Computer_Vision_Open_CV
